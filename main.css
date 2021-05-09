@@ -2,7 +2,7 @@ body{font-size:14px;font-family:'Roboto', sans-serif}ul,li{margin:0;padding:0;li
 /*# sourceMappingURL=main.css.map */
 .carouselExampleControls{
    width: 100%;
-   height: 450px;
+   height: 500px;
    overflow: hidden; // tránh lỗi hình quá lớn đè lên nội dung các phần khác
    padding-left: 15px;
    box-sizing: border-box; // cố định kích thước của slide
